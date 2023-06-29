@@ -1,0 +1,26 @@
+.maindiv{
+    text-align: center;
+}
+
+.myclass {
+    border: 1px solid black;
+    background-color:white;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+  }
+
+.myclass > div{
+    padding-block: 50px;
+    
+
+}
+h2{
+    text-align: left;
+    color: rgb(88, 82, 73);
+    padding-top: 30px;
+}
+button{
+    font-size: 25px;
+    background-color: rgb(102, 89, 113);
+}

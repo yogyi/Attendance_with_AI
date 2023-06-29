@@ -1,0 +1,28 @@
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    font-style: italic;
+    
+}
+
+body{
+    text-align: center;
+    background-color: #f5f6f7;
+    color: black;
+    font-family: Tahoma;
+    font-size: 16px;
+  }
+  input, textarea{
+       background-color: azure;
+       box-sizing: 20px;
+       padding: 10px;
+       border-radius: 10px;
+    
+       
+  }
+  h3{
+    font-size: 15px;
+    padding-right: 100px;
+    color: rgb(81, 75, 75);
+  }
+  
